@@ -13,7 +13,6 @@
     src: url('/TT/fonts/Raleway-VariableFont_wght.ttf');
 }
 
-
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
@@ -25,7 +24,6 @@
     font-style: normal;
     src: url('/TT/fonts/Archivo-VariableFont_wdth,wght.ttf');
 }
-
 
 @font-face {
     font-family: 'Archivo';
