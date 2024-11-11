@@ -10,27 +10,27 @@
 @font-face {
     font-family: 'Raleway';
     font-style: normal;
-    src: url('/fonts/Raleway-VariableFont_wght.ttf');
+    src: url('/TT/fonts/Raleway-VariableFont_wght.ttf');
 }
 
 
 @font-face {
     font-family: 'Raleway';
     font-style: italic;
-    src: url('/fonts/Raleway-Italic-VariableFont_wght.ttf');
+    src: url('/TT/fonts/Raleway-Italic-VariableFont_wght.ttf');
 }
 
 @font-face {
     font-family: 'Archivo';
     font-style: normal;
-    src: url('/fonts/Archivo-VariableFont_wdth\,wght.ttf');
+    src: url('/TT/fonts/Archivo-VariableFont_wdth\,wght.ttf');
 }
 
 
 @font-face {
     font-family: 'Archivo';
     font-style: italic;
-    src: url('/fonts/Archivo-Italic-VariableFont_wdth\,wght.ttf');
+    src: url('/TT/fonts/Archivo-Italic-VariableFont_wdth\,wght.ttf');
 }
 
 
